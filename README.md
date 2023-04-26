@@ -8,7 +8,7 @@ Hello Everyone, 👋 I made this Covid-19 Pandemic Report in PowerBI with my own
 
 1️⃣ Report Data can be sliced by Country to show Data of that particular Country.
 
-2️⃣ It has cards showing Population, Total Cases, Total Active Cases and Total Death.
+2️⃣ It has cards showing Population, Total Cases, Total Active Cases and Total Deaths.
 
 3️⃣ It has a Map Section which shows the Particular Country which is selected from the Slicer.
 
