@@ -1,4 +1,4 @@
-😷 Covid-19 Corona Virus Pandemic 😷
+**Covid-19 Corona Virus Pandemic**
 
 Hello Everyone, 👋
 
