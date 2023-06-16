@@ -2,7 +2,7 @@
 
 Hello Everyone,
 
-I made this Covid-19 Pandemic Report in PowerBI with my own Dataset Covid Cases and Death World Wide.
+I made this Covid-19 Pandemic Report in PowerBI with one of my own Dataset Covid Cases and Death World Wide.
 
 ## Problem Statement
 
