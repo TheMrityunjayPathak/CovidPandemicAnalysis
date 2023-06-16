@@ -4,6 +4,10 @@ Hello Everyone,
 
 I made this Covid-19 Pandemic Report in PowerBI with my own Dataset Covid Cases and Death World Wide.
 
+## Problem Statement
+
+The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.
+
 ## Sections in the Report
 
 **Report has Multiple Section's from where you can manage the Data, Like :**
