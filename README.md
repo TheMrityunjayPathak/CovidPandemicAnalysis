@@ -30,4 +30,4 @@ git clone https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis.git
 ## Link to Dataset
 [Covid Cases and Deaths Worldwide](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)
 
-![1676998135698](https://user-images.githubusercontent.com/123563634/232387764-73eee02b-8192-4c0f-be68-c19ee29ae04c.jpg)
+![1676998135698](https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis/assets/123563634/deecdf9c-759c-43e7-bd21-536a8c046148)
