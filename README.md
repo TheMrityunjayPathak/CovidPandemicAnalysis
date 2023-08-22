@@ -6,7 +6,7 @@ I made this Covid-19 Pandemic Report in PowerBI with one of my own Dataset Covid
 
 ## Problem Statement
 
-The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.
+- The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.
 
 ## Sections in the Report
 
