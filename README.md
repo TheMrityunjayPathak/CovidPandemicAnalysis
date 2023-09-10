@@ -1,4 +1,4 @@
-## Covid-19 Corona Virus Pandemic
+## Covid Pandemic Analysis
 
 Hello Everyone,
 
