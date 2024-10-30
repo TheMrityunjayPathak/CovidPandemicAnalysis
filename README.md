@@ -14,11 +14,11 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
 
 - Report data can be sliced by country to show data of that particular country.
 
-- It has cards showing Population, Total Cases, Total Active Cases and Total Deaths.
+- Report has cards showing Population, Total Cases, Total Active Cases and Total Deaths.
 
-- It has a map section which shows the particular country selected from the slicer.
+- Report has a map section which shows the particular country selected from the slicer.
 
-- And Lastly, It has a pie chart that shows Total Population of the Country and Total Population Recovered.
+- And Lastly, Report has a pie chart that shows Total Population of the Country and Total Population Recovered.
 
 ## Getting Started
 
