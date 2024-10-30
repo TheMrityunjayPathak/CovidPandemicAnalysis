@@ -1,8 +1,6 @@
 ## Covid Pandemic Analysis
 
-Hello Everyone,
-
-I made this Covid-19 Pandemic Dashboard in Power BI with one of my own Dataset Covid Cases and Death World Wide.
+Hello Everyone, I made this Covid-19 Pandemic Dashboard in Power BI with one of my own dataset Covid Cases and Death WorldWide.
 
 ## Problem Statement
 
@@ -10,19 +8,19 @@ I made this Covid-19 Pandemic Dashboard in Power BI with one of my own Dataset C
 
 ## Sections in the Report
 
-**Report has Multiple Section's from where you can manage the Data, Like :**
+**Report has multiple section's from where you can manage the data, like :**
 
-- Report Data can be sliced by Country to show Data of that particular Country.
+- Report data can be sliced by country to show data of that particular country.
 
 - It has cards showing Population, Total Cases, Total Active Cases and Total Deaths.
 
-- It has a Map Section which shows the Particular Country which is selected from the Slicer.
+- It has a map section which shows the particular country selected from the slicer.
 
-- And Lastly, It has a Pie Chart showing Total Population of Country and Total Recovered Cases from that Country.
+- And Lastly, It has a pie chart that shows Total Population of the Country and Total Population Recovered.
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis.git
 ```
