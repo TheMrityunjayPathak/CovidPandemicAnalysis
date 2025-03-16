@@ -18,7 +18,7 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
 
 - Report has a map section which shows the particular country selected from the slicer.
 
-- And Lastly, Report has a pie chart that shows Total Population of the Country and Total Population Recovered.
+- And lastly, Report has a pie chart that shows Total Population of the Country and Total Population Recovered.
 
 ## Getting Started
 
