@@ -22,7 +22,7 @@ To create an interactive COVID-19 Dashboard that provides meaningful insight abo
 
 ## Getting Started
 
-- Clone this repository to your local machine by using the following command :
+Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis.git
 ```
