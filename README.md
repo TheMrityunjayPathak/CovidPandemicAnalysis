@@ -2,11 +2,11 @@
 
 Hello Everyone, 
 
-I made this Covid-19 Pandemic Dashboard in Power BI with one of my own dataset Covid Cases and Death WorldWide.
+I made this Covid-19 Dashboard in Power BI with one of my own dataset Covid Cases and Death WorldWide.
 
 ## Problem Statement
 
-To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.
+To create an interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.
 
 ## Sections in the Report
 
